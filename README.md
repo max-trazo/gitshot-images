@@ -1,0 +1,1 @@
+# gitshot-images\n\nImage hosting for GitHub issues & PRs.\nManaged by [gitshot](https://github.com/vipulgupta2048/gitshot).\n
